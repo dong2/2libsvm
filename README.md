@@ -11,6 +11,8 @@ https://blog.csdn.net/pangpang1239/article/details/7483895
 https://www.csie.ntu.edu.tw/~cjlin/papers/guide/data/  
 网友blog  
 https://www.cnblogs.com/zhizhan/tag/svm/  
+应用示例  
+NhamSiangliulueYeung-PredictingModeOfTransportFromIphoneAccelerometerData.pdf
 
 ### 康奈尔大学Thorsten Joachims教授的主页
 http://svmlight.joachims.org/
