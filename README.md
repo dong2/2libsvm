@@ -16,6 +16,8 @@ https://blog.csdn.net/zilongreco/article/details/41390385?utm_medium=distribute.
 应用示例  
 NhamSiangliulueYeung-PredictingModeOfTransportFromIphoneAccelerometerData.pdf  
 https://www.baidu.com/link?url=WVMH-GPPwkBHcykH7qupVhxY_lKtMVTMzXoHKW1njvAmUOP6sMCZeoCIo37VzdhbR6HyAcag-Y2SMUbzb0JrBVU-hW7SwhBOJ0egYqLPC9xtKdx1TrzKPAj-B4lUoJW-jBseLm3elkSWxbPGiz7FzgK9pZghUfiuBtim-RtpZHa&wd=&eqid=cf5ced2f00021277000000066005595e  
+libsvm回归  
+http://blog.sina.com.cn/s/blog_5980835e0100drwx.html  
 
 ### 康奈尔大学Thorsten Joachims教授的主页
 http://svmlight.joachims.org/  
