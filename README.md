@@ -7,6 +7,8 @@ https://www.csie.ntu.edu.tw/~cjlin/libsvm/
 https://blog.csdn.net/sinat_25857925/article/details/70052532  
 应用手册翻译  
 https://blog.csdn.net/pangpang1239/article/details/7483895  
+libsvm应用方法  
+https://blog.csdn.net/yushupan/article/details/78998128
 测试数据  
 https://www.csie.ntu.edu.tw/~cjlin/papers/guide/data/  
 网友blog  
