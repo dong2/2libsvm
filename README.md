@@ -2,7 +2,7 @@
 
 ### 台湾大学林智仁教授主页
 LIBSVM -- A Library for Support Vector Machines  
-https://www.csie.ntu.edu.tw/~cjlin/libsvm/  
+https://www.csie.ntu.edu.tw/~cjlin  
 入门指南翻译  
 https://blog.csdn.net/sinat_25857925/article/details/70052532  
 应用手册翻译  
