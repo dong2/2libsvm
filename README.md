@@ -33,7 +33,7 @@ a. 简单应用
 ./svm-scale -s test.1.model.range test.1 > test.1.model.scale  
 ./svm-predict test.1 test.1.model test.1.predict  
 
-b. 工具脚本应用
+b. 工具脚本应用  
 检查数据  
 python checkdata.py test.1  
 优选参数Best c=8192.0, g=0.5 CV rate=97.1    
