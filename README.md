@@ -26,14 +26,27 @@ https://github.com/zygmuntz/phraug
 https://github.com/zygmuntz/phraug2  
 
 ### libsvm动手实践
-简单应用  
+a. 简单应用  
 ./svm-train test.1  
 ./svm-scale test.1  
 ./svm-scale -l -1 -u 1 -s test.1.model.range test.1 > test.1.model.scale  
 ./svm-scale -s test.1.model.range test.1 > test.1.model.scale(默认是0～1)  
 ./svm-predict test.1 test.1.model test.1.predict  
+
+b. 工具脚本应用
+检查数据  
 python checkdata.py test.1  
-python easy.py test.1.model test.1 test.11  
+优选参数Best c=8192.0, g=0.5 CV rate=97.1    
+python grid.py test.1   
+一步配置到位(其对grid.py、svm-train、svm-scale和svm-predict都进行了调用)
+python easy.py test.1  
+完整log  
+Scaling training data...  
+Cross validation...  
+Best c=8192.0, g=0.5 CV rate=97.1  
+Training...  
+Output model: test.1.model  
+
 
 简单实例化  
 python libsvm2csv.py test.1 test.11 4  
