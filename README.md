@@ -27,9 +27,9 @@ https://github.com/zygmuntz/phraug2
 
 ### libsvm动手实践
 简单应用  
-./svm-train test.1 test.1.model  
-./svm-scale test.1 test.1.model.range  
-./svm-predict test.1 test.1.model test.1.model.range  
+./svm-train test.1  
+./svm-scale test.1  
+./svm-predict test.1 test.1.model test.1.predict  
 python easy.py test.1.model test.1 test.11  
 
 简单实例化  
