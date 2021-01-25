@@ -20,18 +20,16 @@ NhamSiangliulueYeung-PredictingModeOfTransportFromIphoneAccelerometerData.pdf
 https://www.baidu.com/link?url=WVMH-GPPwkBHcykH7qupVhxY_lKtMVTMzXoHKW1njvAmUOP6sMCZeoCIo37VzdhbR6HyAcag-Y2SMUbzb0JrBVU-hW7SwhBOJ0egYqLPC9xtKdx1TrzKPAj-B4lUoJW-jBseLm3elkSWxbPGiz7FzgK9pZghUfiuBtim-RtpZHa&wd=&eqid=cf5ced2f00021277000000066005595e  
 libsvm回归  
 http://blog.sina.com.cn/s/blog_5980835e0100drwx.html  
-phraug/phraug2数据转换
+phraug/phraug2数据转换  
+https://github.com/zygmuntz/phraug  
+https://github.com/zygmuntz/phraug2  
 python libsvm2csv.py test.1 test.11 4  
 python csv2libsvm.py test.11 test.111  
 test.111应该还原成test.1  
-https://github.com/zygmuntz/phraug  
-https://github.com/zygmuntz/phraug2  
-  
-  
-   
+
+    
 ### 康奈尔大学Thorsten Joachims教授的主页
 http://svmlight.joachims.org/  
-  
   
   
 ### 第三方参考文献  
