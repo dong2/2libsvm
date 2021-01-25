@@ -25,14 +25,14 @@ phraug/phraug2数据转换
 https://github.com/zygmuntz/phraug  
 https://github.com/zygmuntz/phraug2  
 
-简单应用  
+简单应用
 ```
 ./svm-train test.1  
 ./svm-scale test.1  
 ./svm-predict test.1 test.1.model test.1.output  
 python easy.py test.1 test.11  
 ```
-简单实例化  
+简单实例化
 ```
 python libsvm2csv.py test.1 test.11 4  
 python csv2libsvm.py test.11 test.111  
