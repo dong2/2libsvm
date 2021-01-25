@@ -25,7 +25,7 @@ phraug/phraug2数据转换
 https://github.com/zygmuntz/phraug  
 https://github.com/zygmuntz/phraug2  
 
-### 动手实践
+### libsvm动手实践
 简单应用  
 ./svm-train test.1  
 ./svm-scale test.1  
