@@ -1,6 +1,6 @@
 # svm-list
 
-### 1.libsvm
+## 1.libsvm
 台湾大学林智仁教授主页  
 LIBSVM -- A Library for Support Vector Machines  
 https://www.csie.ntu.edu.tw/~cjlin  
@@ -38,11 +38,11 @@ python csv2libsvm.py test.11 test.111
 test.111应该还原成test.1  
 
     
-### 2.svmlight
+## 2.svmlight
 康奈尔大学Thorsten Joachims教授的主页  
 http://svmlight.joachims.org/  
   
   
-### 3.第三方参考文献  
+## 3.第三方参考文献  
 https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/svmtutorial.pdf  
 https://www.cse.unr.edu/~bebis/CS479/  
