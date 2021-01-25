@@ -30,7 +30,7 @@ https://github.com/zygmuntz/phraug2
 ./svm-train test.1  
 ./svm-scale test.1  
 ./svm-scale -l -1 -u 1 -s test.1.model.range test.1 > test.1.model.scale  
-./svm-scale -s test.1.model.range test.1 > test.1.model.scale  
+./svm-scale -s test.1.model.range test.1 > test.1.model.scale(默认是0～1)  
 ./svm-predict test.1 test.1.model test.1.predict  
 python checkdata.py test.1  
 python easy.py test.1.model test.1 test.11  
