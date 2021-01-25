@@ -46,3 +46,5 @@ http://svmlight.joachims.org/
 ## 3. 第三方参考文献  
 https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/svmtutorial.pdf  
 https://www.cse.unr.edu/~bebis/CS479/  
+https://www.cnblogs.com/dong1/p/14043892.html  
+
