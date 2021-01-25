@@ -32,6 +32,7 @@ https://github.com/zygmuntz/phraug2
 ./svm-scale -l -1 -u 1 -s test.1.model.range test.1 > test.1.model.scale  
 ./svm-scale -s test.1.model.range test.1 > test.1.model.scale  
 ./svm-predict test.1 test.1.model test.1.predict  
+python checkdata.py test.1  
 python easy.py test.1.model test.1 test.11  
 
 简单实例化  
