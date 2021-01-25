@@ -1,6 +1,6 @@
 # svm-list
 
-### 1.libscv
+### 1.libsvm
 台湾大学林智仁教授主页  
 LIBSVM -- A Library for Support Vector Machines  
 https://www.csie.ntu.edu.tw/~cjlin  
