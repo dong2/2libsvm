@@ -29,7 +29,8 @@ https://github.com/zygmuntz/phraug2
 简单应用  
 ./svm-train test.1  
 ./svm-scale test.1  
-./svm-scale -l -1 -u 1 -s test.1.model.range test.1 > out.txt  
+./svm-scale -l -1 -u 1 -s test.1.model.range test.1 > test.1.model.scale  
+./svm-scale -s test.1.model.range test.1 > test.1.model.scale  
 ./svm-predict test.1 test.1.model test.1.predict  
 python easy.py test.1.model test.1 test.11  
 
