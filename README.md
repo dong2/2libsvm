@@ -1,6 +1,7 @@
 # svm-list
 
-### 1.台湾大学林智仁教授主页
+### 1.libscv
+台湾大学林智仁教授主页  
 LIBSVM -- A Library for Support Vector Machines  
 https://www.csie.ntu.edu.tw/~cjlin  
 入门指南翻译  
@@ -39,7 +40,8 @@ test.111应该还原成test.1
 ```
 
     
-### 2.康奈尔大学Thorsten Joachims教授的主页
+### 2.svmlight
+康奈尔大学Thorsten Joachims教授的主页  
 http://svmlight.joachims.org/  
   
   
