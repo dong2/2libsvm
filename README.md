@@ -48,10 +48,13 @@ Training...
 Output model: test.1.model  
 
 
-简单实例化  
+c. 简单实例化  
+数据格式转换  
 python libsvm2csv.py test.1 test.11 4  
 python csv2libsvm.py test.11 test.111  
 test.111应该还原成test.1  
+c语言demo
+https://www.cnblogs.com/hehehaha/p/6332210.html  
 
     
 ## 2. svmlight
