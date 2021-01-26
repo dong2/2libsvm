@@ -6,6 +6,8 @@ LIBSVM -- A Library for Support Vector Machines
 https://www.csie.ntu.edu.tw/~cjlin  
 svm_tutorial  
 https://www.csie.ntu.edu.tw/~piaip/svm/svm_tutorial.html  
+http://bytesizebio.net/2014/02/05/support-vector-machines-explained-well/  
+https://github.com/xzbuck/kaggle/tree/dev/static/images/competitions/getting-started/digit-recognizer/svm  
 入门指南翻译  
 https://blog.csdn.net/sinat_25857925/article/details/70052532  
 应用手册翻译  
