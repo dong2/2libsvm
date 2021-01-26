@@ -57,6 +57,8 @@ c demo
 https://www.cnblogs.com/hehehaha/p/6332210.html  
 c++ demo  
 https://www.cnblogs.com/cv-pr/p/5646434.html  
+tutorial-for-libsvm-c  
+https://stackoverflow.com/questions/8122227/tutorial-for-libsvm-c  
 
     
 ## 2. svmlight
