@@ -38,7 +38,7 @@ b. 工具脚本应用
 python checkdata.py test.1  
 优选参数Best c=8192.0, g=0.5 CV rate=97.1    
 python grid.py test.1   
-一步配置到位(其对grid.py、svm-train、svm-scale和svm-predict都进行了调用)
+一步配置到位(其对grid.py、svm-train、svm-scale和svm-predict都进行了调用)  
 python easy.py test.1  
 完整log  
 Scaling training data...  
