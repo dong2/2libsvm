@@ -53,7 +53,7 @@ c. 简单实例化
 python libsvm2csv.py test.1 test.11 4  
 python csv2libsvm.py test.11 test.111  
 test.111应该还原成test.1  
-c demo
+c demo  
 https://www.cnblogs.com/hehehaha/p/6332210.html  
 c++ demo  
 https://www.cnblogs.com/cv-pr/p/5646434.html  
