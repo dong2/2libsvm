@@ -19,8 +19,6 @@ https://blog.csdn.net/yushupan/article/details/78998128
 https://www.csie.ntu.edu.tw/~cjlin/papers/guide/data/  
 网友blog  
 https://www.cnblogs.com/zhizhan/tag/svm/  
-性别预测小例子  
-https://blog.csdn.net/zilongreco/article/details/41390385?utm_medium=distribute.pc_relevant_download.none-task-blog-baidujs-1.nonecase&depth_1-utm_source=distribute.pc_relevant_download.none-task-blog-baidujs-1.nonecase  
 应用示例  
 NhamSiangliulueYeung-PredictingModeOfTransportFromIphoneAccelerometerData.pdf  
 https://www.baidu.com/link?url=WVMH-GPPwkBHcykH7qupVhxY_lKtMVTMzXoHKW1njvAmUOP6sMCZeoCIo37VzdhbR6HyAcag-Y2SMUbzb0JrBVU-hW7SwhBOJ0egYqLPC9xtKdx1TrzKPAj-B4lUoJW-jBseLm3elkSWxbPGiz7FzgK9pZghUfiuBtim-RtpZHa&wd=&eqid=cf5ced2f00021277000000066005595e  
@@ -64,6 +62,8 @@ c++ demo
 https://www.cnblogs.com/cv-pr/p/5646434.html  
 tutorial-for-libsvm-c  
 https://stackoverflow.com/questions/8122227/tutorial-for-libsvm-c  
+性别预测小例子  
+https://blog.csdn.net/zilongreco/article/details/41390385?utm_medium=distribute.pc_relevant_download.none-task-blog-baidujs-1.nonecase&depth_1-utm_source=distribute.pc_relevant_download.none-task-blog-baidujs-1.nonecase  
 
     
 ## 2. svmlight
