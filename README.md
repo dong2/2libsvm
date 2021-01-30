@@ -76,3 +76,10 @@ https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/svmtutorial.
 https://www.cse.unr.edu/~bebis/CS479/  
 https://www.cnblogs.com/dong1/p/14043892.html  
 
+
+JY61资料下载
+下载地址:http://download.wit-motion.com/download/JY61/JY61.rar
+把上面链接粘贴到浏览器直接下载（推荐使用）
+百度网盘资料下载
+百度网盘链接：https://pan.baidu.com/s/1faXCw7hHhxHU7g4CVXy9aw
+验证码：3q0s
