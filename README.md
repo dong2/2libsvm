@@ -1,4 +1,4 @@
-# svm-list
+# libsvm
 
 ## 1. 台湾大学林智仁教授主页    
 LIBSVM -- A Library for Support Vector Machines  
@@ -42,7 +42,7 @@ https://stackoverflow.com/questions/8122227/tutorial-for-libsvm-c
 https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/svmtutorial.pdf    
 https://www.cse.unr.edu/~bebis/CS479/   
 
-### 串口模组
+## 4. 串口模组
 JY61资料下载  
 下载地址:http://download.wit-motion.com/download/JY61/JY61.rar  
 把上面链接粘贴到浏览器直接下载（推荐使用）  
