@@ -38,6 +38,13 @@ https://github.com/clysto/libsvm-demo
 https://blog.csdn.net/zilongreco/article/details/41390385?utm_medium=distribute.pc_relevant_download.none-task-blog-baidujs-1.nonecase&depth_1-utm_source=distribute.pc_relevant_download.none-task-blog-baidujs-1.nonecase  
 增加个linux下的Makefile  
 https://files.cnblogs.com/files/dong1/svmregress.tar.gz 
+
+e. svm.h里的几个接口都很容易用
+svm_train
+svm_save_model
+svm_load_model
+svm_predict
+实际应用时直接加载model, 然后predict就行, 训练模型才需要配置参数，也可以不配置，默认也行. 
   
 ## 3. 第三方参考文献  
 tutorial-for-libsvm-c  
