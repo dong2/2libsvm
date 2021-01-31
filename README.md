@@ -7,7 +7,7 @@ svm_tutorial
 https://www.csie.ntu.edu.tw/~piaip/svm/svm_tutorial.html  
 http://bytesizebio.net/2014/02/05/support-vector-machines-explained-well/  
 
-### libsvm动手实践
+## 2. libsvm动手实践
 a. 简单应用  
 ./svm-train test.1  
 ./svm-scale test.1  
@@ -28,7 +28,9 @@ c. 简单实例化
 python libsvm2csv.py test.1 test.11 4  
 python csv2libsvm.py test.11 test.111  
 test.111应该还原成test.1  
-  
+
+d. demo
+https://github.com/clysto/libsvm-demo
 性别预测小例子  
 https://blog.csdn.net/zilongreco/article/details/41390385?utm_medium=distribute.pc_relevant_download.none-task-blog-baidujs-1.nonecase&depth_1-utm_source=distribute.pc_relevant_download.none-task-blog-baidujs-1.nonecase  
 增加个linux下的Makefile  
