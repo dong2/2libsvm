@@ -38,15 +38,15 @@ https://files.cnblogs.com/files/dong1/svmregress.tar.gz
   
 ## 3. 第三方参考文献  
 tutorial-for-libsvm-c  
-https://stackoverflow.com/questions/8122227/tutorial-for-libsvm-c
-https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/svmtutorial.pdf  
-https://www.cse.unr.edu/~bebis/CS479/  
+https://stackoverflow.com/questions/8122227/tutorial-for-libsvm-c  
+https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/svmtutorial.pdf    
+https://www.cse.unr.edu/~bebis/CS479/   
 
-```
-JY61资料下载
-下载地址:http://download.wit-motion.com/download/JY61/JY61.rar
-把上面链接粘贴到浏览器直接下载（推荐使用）
-百度网盘资料下载
-百度网盘链接：https://pan.baidu.com/s/1faXCw7hHhxHU7g4CVXy9aw
-验证码：3q0s
-```
+### 串口模组
+JY61资料下载  
+下载地址:http://download.wit-motion.com/download/JY61/JY61.rar  
+把上面链接粘贴到浏览器直接下载（推荐使用）  
+百度网盘资料下载  
+百度网盘链接：https://pan.baidu.com/s/1faXCw7hHhxHU7g4CVXy9aw  
+验证码：3q0s  
+
