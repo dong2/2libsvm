@@ -32,7 +32,7 @@ python libsvm2csv.py test.1 test.11 4
 python csv2libsvm.py test.11 test.111  
 test.111应该还原成test.1  
 
-d. demo
+d. demo  
 https://github.com/clysto/libsvm-demo  
 性别预测小例子  
 https://blog.csdn.net/zilongreco/article/details/41390385?utm_medium=distribute.pc_relevant_download.none-task-blog-baidujs-1.nonecase&depth_1-utm_source=distribute.pc_relevant_download.none-task-blog-baidujs-1.nonecase  
