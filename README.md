@@ -45,6 +45,8 @@ svm_save_model
 svm_load_model
 svm_predict
 实际应用时直接加载model, 然后predict就行, 训练模型才需要配置参数，也可以不配置，默认也行. 
+
+f. http://cs229.stanford.edu/proj2008/NhamSiangliulueYeung-PredictingModeOfTransportFromIphoneAccelerometerData.pdf  
   
 ## 3. 第三方参考文献  
 tutorial-for-libsvm-c  
