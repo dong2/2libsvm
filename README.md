@@ -44,7 +44,7 @@ svm_train
 svm_save_model
 svm_load_model
 svm_predict
-实际应用时直接加载model, 然后predict就行, 训练模型才需要配置参数，也可以不配置，默认也行. 
+实际应用时直接加载model, 然后predict就行, 训练模型才需要配置参数，数据工整也可以不配置，默认也行. 
 
 f. 加速度传感器检测步行，跑步，开车的示例  
 http://cs229.stanford.edu/proj2008/NhamSiangliulueYeung-PredictingModeOfTransportFromIphoneAccelerometerData.pdf  
